@@ -7,6 +7,7 @@ Soy un estudiante de ingeniería y líder técnico enfocado en el desarrollo de 
 * **Backend & Cloud:** Supabase, arquitecturas distribuidas
 * **Hardware & IoT:** ESP32, MicroPython, nodos Edge/Fog
 * **Flujo de Trabajo:** Git, Linux (CachyOS), revisión de código (PRs)
+* **Protocolos de Comunicación:** MQTT (Mensajería M2M), REST, WebSockets, ESC/POS (Impresoras Térmicas).
 
 ### 🚀 Lo que estoy construyendo
 Actualmente lidero el desarrollo de un ecosistema POS, enfocándome en la sincronización eficiente de datos locales (desde hardware ESP32) hacia bases de datos en la nube, asegurando integridad en entornos con conectividad intermitente.
